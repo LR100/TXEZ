@@ -1,0 +1,8 @@
+
+*.db
+.vs/TXEZ/v16/.suo
+*.ipch
+*.tlog
+*.obj
+*.idb
+*.pdb

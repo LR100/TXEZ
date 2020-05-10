@@ -1,0 +1,5 @@
+﻿  XMLNode.cpp
+C:\Users\ADMIN\Documents\GitHub\TXEZ\TXEZ\src\XMLNode.cpp(24,8): warning C4101: 'isNotOver': unreferenced local variable
+  XMLParser.cpp
+  Generating Code...
+  TXEZ.vcxproj -> C:\Users\ADMIN\Documents\GitHub\TXEZ\Debug\TXEZ.lib
